@@ -6,3 +6,6 @@ CODACY BATCH
 # BADGES
 ## Build
 [![CI](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/build.yml/badge.svg)](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/build.yml)
+
+## Gitinspector
+[![Git Inspector](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/gitinspector.yml)
