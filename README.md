@@ -12,3 +12,6 @@ CODACY BATCH
 
 ## Codequality
 [![Valgrind](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/codequality.yml/badge.svg)](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/codequality.yml)
+
+## Cppquality
+[![cppcheck-action](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/cpp.yml/badge.svg)](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/cpp.yml)
