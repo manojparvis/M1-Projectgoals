@@ -9,3 +9,6 @@ CODACY BATCH
 
 ## Gitinspector
 [![Git Inspector](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/gitinspector.yml)
+
+## Codequality
+[![Valgrind](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/codequality.yml/badge.svg)](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/codequality.yml)
