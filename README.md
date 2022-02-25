@@ -16,5 +16,8 @@ CODACY BATCH
 ## Cppquality
 [![cppcheck-action](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/cpp.yml/badge.svg)](https://github.com/manojparvis/M1-Projectgoals/actions/workflows/cpp.yml)
 
+## Badge
+https://app.codiga.io/home
+
 ## References
 https://www.slideteam.net/powerpoint/Work-Activities
