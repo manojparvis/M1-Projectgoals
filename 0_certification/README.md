@@ -9,3 +9,7 @@
 # Hackerearth:
 
 <img width="960" alt="HackerEarth" src="https://user-images.githubusercontent.com/98828082/155968054-27266200-897b-459e-bb55-e598bbaa25a7.png">
+
+# Linux
+
+[NDA ISCSA.docx](https://github.com/manojparvis/M1-Projectgoals/files/8152593/NDA.ISCSA.docx)
