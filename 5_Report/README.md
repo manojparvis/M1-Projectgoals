@@ -1,3 +1,4 @@
+Report of the Apllication:
 INTRODUCTION:
 • This project is a basic c project which can help you to 
 understand the basic concepts of functions, data structure and 
